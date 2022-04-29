@@ -1,3 +1,3 @@
-java öğreniminizde ve ödevlerinizde yardımcı olabilecek alıştırmalar, iyi çalışmalar.
+• Java öğreniminizde ve ödevlerinizde yardımcı olabilecek alıştırmalar, iyi çalışmalar.
 
-helpful in your java tutorials, good works.
+• Helpful in your java tutorials, good works.
